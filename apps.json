@@ -2130,7 +2130,6 @@
     {"name": "counter.img", "url": "counter-icon.js", "evaluate": true}
    ]
   },
-},
 { "id": "myapp1",
   "name": "My App 1",
   "shortName":"MyApp1",
@@ -2143,5 +2142,5 @@
     {"name":"myapp1.img","url":"app-icon.js","evaluate":true}
   ]
 }
-]
+
 ]
