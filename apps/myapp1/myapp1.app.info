@@ -1,0 +1,4 @@
+require("Storage").write("myapp1.info",{
+  "name":"My App1",
+  "src":"myapp1.app.js"
+});
